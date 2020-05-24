@@ -1,0 +1,12 @@
+.Scroll{
+    overflow-y: scroll;
+    height: 800px;
+    border: 1px solid #cbe0e0;
+    border-radius: 5px;
+    padding : 3px;
+    margin: 10px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
