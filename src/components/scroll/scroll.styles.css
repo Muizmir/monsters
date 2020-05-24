@@ -1,4 +1,4 @@
-.Scroll{
+.scroll{
     overflow-y: scroll;
     height: 800px;
     border: 1px solid #cbe0e0;
@@ -9,4 +9,12 @@
 
 ::-webkit-scrollbar {
     display: none;
+}
+
+@media(max-width: 480px){
+  .scroll {
+    padding : 10px;
+    margin: 60px;
+    height: 600px;
+  }
 }

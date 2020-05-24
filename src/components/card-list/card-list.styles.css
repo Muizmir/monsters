@@ -5,10 +5,3 @@
     grid-template-columns: repeat(auto-fill, minmax(200px, 2fr)); 
     grid-template-rows: 1fr;
 }
-
-
-@media(max-width: 490px){
-  .card-list {
-   margin: 60px;
-  }
-}

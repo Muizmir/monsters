@@ -3,7 +3,7 @@ import './scroll.styles.css';
 
 const Scroll = ({ children }) => {
     return(
-        <div className='Scroll'>
+        <div className='scroll'>
             {children}
         </div>
     )
