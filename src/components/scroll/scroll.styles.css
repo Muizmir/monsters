@@ -13,8 +13,8 @@
 
 @media(max-width: 480px){
   .scroll {
-    padding : 10px;
-    margin: 60px;
+    padding : 5px;
+    margin: 50px;
     height: 600px;
   }
 }
